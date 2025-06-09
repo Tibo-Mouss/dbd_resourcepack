@@ -1,0 +1,237 @@
+{
+    "credit": "Made with Blockbench",
+    "display": {
+        "firstperson_lefthand": {
+            "translation": [
+                -1.75,
+                4.75,
+                0
+            ]
+        },
+        "firstperson_righthand": {
+            "translation": [
+                -1.75,
+                4.75,
+                0
+            ]
+        },
+        "fixed": {
+            "scale": [
+                1.85,
+                1.85,
+                1.85
+            ],
+            "translation": [
+                0,
+                8,
+                -3.25
+            ]
+        },
+        "ground": {
+            "scale": [
+                0.57,
+                0.57,
+                0.57
+            ],
+            "translation": [
+                0,
+                3,
+                0
+            ]
+        },
+        "gui": {
+            "rotation": [
+                18,
+                62,
+                0
+            ],
+            "scale": [
+                1.98,
+                1.98,
+                1.98
+            ],
+            "translation": [
+                0,
+                8.5,
+                0
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                49.25,
+                0,
+                0
+            ],
+            "scale": [
+                0.83,
+                0.83,
+                0.83
+            ],
+            "translation": [
+                0,
+                3.25,
+                3
+            ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [
+                49.25,
+                0,
+                0
+            ],
+            "scale": [
+                0.83,
+                0.83,
+                0.83
+            ],
+            "translation": [
+                0,
+                3.25,
+                3
+            ]
+        }
+    },
+    "elements": [
+        {
+            "faces": {
+                "down": {
+                    "texture": "#0",
+                    "uv": [
+                        10.5,
+                        6,
+                        7,
+                        9.5
+                    ]
+                },
+                "east": {
+                    "texture": "#0",
+                    "uv": [
+                        7,
+                        10,
+                        10.5,
+                        11
+                    ]
+                },
+                "north": {
+                    "texture": "#0",
+                    "uv": [
+                        3,
+                        10,
+                        6.5,
+                        11
+                    ]
+                },
+                "south": {
+                    "texture": "#0",
+                    "uv": [
+                        3,
+                        11,
+                        6.5,
+                        12
+                    ]
+                },
+                "up": {
+                    "texture": "#0",
+                    "uv": [
+                        6.5,
+                        9.5,
+                        3,
+                        6
+                    ]
+                },
+                "west": {
+                    "texture": "#0",
+                    "uv": [
+                        11,
+                        6,
+                        14.5,
+                        7
+                    ]
+                }
+            },
+            "from": [
+                6.25,
+                6,
+                6.25
+            ],
+            "to": [
+                9.75,
+                7,
+                9.75
+            ]
+        },
+        {
+            "faces": {
+                "down": {
+                    "texture": "#0",
+                    "uv": [
+                        12,
+                        3,
+                        9,
+                        6
+                    ]
+                },
+                "east": {
+                    "texture": "#0",
+                    "uv": [
+                        3,
+                        0,
+                        6,
+                        6
+                    ]
+                },
+                "north": {
+                    "texture": "#0",
+                    "uv": [
+                        0,
+                        0,
+                        3,
+                        6
+                    ]
+                },
+                "south": {
+                    "texture": "#0",
+                    "uv": [
+                        0,
+                        6,
+                        3,
+                        12
+                    ]
+                },
+                "up": {
+                    "texture": "#0",
+                    "uv": [
+                        12,
+                        3,
+                        9,
+                        0
+                    ]
+                },
+                "west": {
+                    "texture": "#0",
+                    "uv": [
+                        6,
+                        0,
+                        9,
+                        6
+                    ]
+                }
+            },
+            "from": [
+                6.5,
+                0,
+                6.5
+            ],
+            "to": [
+                9.5,
+                6,
+                9.5
+            ]
+        }
+    ],
+    "gui_light": "front",
+    "mcmodels": "635eab933aca86d0a13e116447ab08f0",
+    "textures": {
+        "0": "item/consumables_painkiller_0"
+    }
+}

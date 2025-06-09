@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/mace"
+        },
+        "cases": [
+            {
+                "when": "consumables_gatorade",
+                "model": {
+                    "type": "model",
+                    "model": "item/consumables_gatorade"
+                }
+            },
+            {
+                "when": "consumables_med_",
+                "model": {
+                    "type": "model",
+                    "model": "item/consumables_med_"
+                }
+            },
+            {
+                "when": "consumables_painkiller",
+                "model": {
+                    "type": "model",
+                    "model": "item/consumables_painkiller"
+                }
+            },
+            {
+                "when": "barbed_mace",
+                "model": {
+                    "type": "model",
+                    "model": "item/barbed_mace"
+                }
+            },
+            {
+                "when": "gow_axe",
+                "model": {
+                    "type": "model",
+                    "model": "item/gow_axe"
+                }
+            },
+            {
+                "when": "steampunk_hammer",
+                "model": {
+                    "type": "model",
+                    "model": "item/steampunk_hammer"
+                }
+            }
+        ]
+    }
+}
