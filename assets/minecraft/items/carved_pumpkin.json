@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/carved_pumpkin"
+        },
+        "cases": [
+            {
+                "when": "antlers1",
+                "model": {
+                    "type": "model",
+                    "model": "custom/antler1"
+                }
+            },
+            {
+                "when": "antlers2",
+                "model": {
+                    "type": "model",
+                    "model": "custom/antlertall1"
+                }
+            },
+            {
+                "when": "antlers3",
+                "model": {
+                    "type": "model",
+                    "model": "custom/bull1"
+                }
+            },
+            {
+                "when": "antlers4",
+                "model": {
+                    "type": "model",
+                    "model": "custom/goat1"
+                }
+            },
+            {
+                "when": "antlers5",
+                "model": {
+                    "type": "model",
+                    "model": "custom/goat8"
+                }
+            }
+        ]
+    }
+}
