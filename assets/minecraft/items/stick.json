@@ -4,28 +4,28 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/mace"
+            "model": "item/stick"
         },
         "cases": [
             {
-                "when": "consumables_gatorade",
+                "when": "barbed_mace",
                 "model": {
                     "type": "model",
-                    "model": "item/consumables_gatorade"
+                    "model": "item/barbed_mace"
                 }
             },
             {
-                "when": "consumables_med_",
+                "when": "gow_axe",
                 "model": {
                     "type": "model",
-                    "model": "item/consumables_med_"
+                    "model": "item/gow_axe"
                 }
             },
             {
-                "when": "consumables_painkiller",
+                "when": "steampunk_hammer",
                 "model": {
                     "type": "model",
-                    "model": "item/consumables_painkiller"
+                    "model": "item/steampunk_hammer"
                 }
             }
         ]
