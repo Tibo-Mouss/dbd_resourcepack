@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/light_gray_dye"
+        },
+        "cases": [
+            {
+                "when": "bandage",
+                "model": {
+                    "type": "model",
+                    "model": "item/bandage"
+                }
+            },
+            {
+                "when": "medkit",
+                "model": {
+                    "type": "model",
+                    "model": "item/medkit"
+                }
+            }
+        ]
+    }
+}
