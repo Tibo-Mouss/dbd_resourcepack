@@ -4,14 +4,14 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/leather"
+            "model": "item/wooden_pickaxe"
         },
         "cases": [
             {
-                "when": "sheikah",
+                "when": "teleporter",
                 "model": {
                     "type": "model",
-                    "model": "item/compass_00"
+                    "model": "item/teleporter"
                 }
             }
         ]
