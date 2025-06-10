@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/feather"
+        },
+        "cases": [
+            {
+                "when": "consumables_gatorade",
+                "model": {
+                    "type": "model",
+                    "model": "item/consumables_gatorade"
+                }
+            }
+        ]
+    }
+}

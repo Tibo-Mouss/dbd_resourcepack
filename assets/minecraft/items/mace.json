@@ -8,13 +8,6 @@
         },
         "cases": [
             {
-                "when": "consumables_gatorade",
-                "model": {
-                    "type": "model",
-                    "model": "item/consumables_gatorade"
-                }
-            },
-            {
                 "when": "consumables_med_",
                 "model": {
                     "type": "model",
