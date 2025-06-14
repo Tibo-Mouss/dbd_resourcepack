@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/golden_pickaxe"
+        },
+        "cases": [
+            {
+                "when": "hunters_vision",
+                "model": {
+                    "type": "model",
+                    "model": "item/hunters_vision"
+                }
+            }
+        ]
+    }
+}
