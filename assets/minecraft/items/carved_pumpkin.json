@@ -41,6 +41,262 @@
                     "type": "model",
                     "model": "custom/goat8"
                 }
+            },
+
+
+
+
+            {
+                "when": "survivors_0",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/altyn_helmet"
+                }
+            },
+            {
+                "when": "survivors_1",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/apple"
+                }
+            },
+            {
+                "when": "survivors_2",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/balaklava"
+                }
+            },
+            {
+                "when": "survivors_3",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/bear_hat"
+                }
+            },
+            {
+                "when": "survivors_4",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/cardboard_box"
+                }
+            },
+            {
+                "when": "survivors_5",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/red_chef_toque"
+                }
+            },
+            {
+                "when": "survivors_6",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/cigarette"
+                }
+            },
+            {
+                "when": "survivors_7",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/cowboy_hat"
+                }
+            },
+            {
+                "when": "survivors_8",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/crown"
+                }
+            },
+            {
+                "when": "survivors_9",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/disguise"
+                }
+            },
+            {
+                "when": "survivors_10",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/diving_helmet"
+                }
+            },
+            {
+                "when": "survivors_11",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/elf_hat"
+                }
+            },
+            {
+                "when": "survivors_12",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/kabuto"
+                }
+            },
+            {
+                "when": "survivors_13",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/fox_hat"
+                }
+            },
+            {
+                "when": "survivors_14",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/racoon_hat"
+                }
+            },
+            {
+                "when": "survivors_15",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/frog_hat"
+                }
+            },
+            {
+                "when": "survivors_16",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/graduation_cap"
+                }
+            },
+            {
+                "when": "survivors_17",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/guzzler_helmet"
+                }
+            },
+            {
+                "when": "survivors_18",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/headphones"
+                }
+            },
+            {
+                "when": "survivors_19",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/microphone"
+                }
+            },
+            {
+                "when": "survivors_20",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/mlgglasses"
+                }
+            },
+            {
+                "when": "survivors_21",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/mushroom_hat"
+                }
+            },
+            {
+                "when": "survivors_22",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/nimbus"
+                }
+            },
+            {
+                "when": "survivors_23",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/propeller_hat"
+                }
+            },
+            {
+                "when": "survivors_24",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/reindeer_antlers"
+                }
+            },
+            {
+                "when": "survivors_25",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/respirator"
+                }
+            },
+            {
+                "when": "survivors_26",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/safety_helmet"
+                }
+            },
+            {
+                "when": "survivors_27",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/sombrero"
+                }
+            },
+            {
+                "when": "survivors_28",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/somie"
+                }
+            },
+            {
+                "when": "survivors_29",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/soul_fire"
+                }
+            },
+            {
+                "when": "survivors_30",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/straw_hat"
+                }
+            },
+            {
+                "when": "survivors_31",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/white_top_hat"
+                }
+            },
+            {
+                "when": "survivors_32",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/tv"
+                }
+            },
+            {
+                "when": "survivors_33",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/ushanka"
+                }
+            },
+            {
+                "when": "survivors_34",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/vr"
+                }
+            },
+            {
+                "when": "survivors_35",
+                "model": {
+                    "type": "model",
+                    "model": "survivors_cosmetics/purple_top_hat"
+                }
             }
         ]
     }
