@@ -27,6 +27,13 @@
                     "type": "model",
                     "model": "item/steampunk_hammer"
                 }
+            },
+            {
+                "when": "scythe",
+                "model": {
+                    "type": "model",
+                    "model": "item/scythe"
+                }
             }
         ]
     }
