@@ -8,13 +8,6 @@
         },
         "cases": [
             {
-                "when": "barbed_mace",
-                "model": {
-                    "type": "model",
-                    "model": "item/barbed_mace"
-                }
-            },
-            {
                 "when": "gow_axe",
                 "model": {
                     "type": "model",
