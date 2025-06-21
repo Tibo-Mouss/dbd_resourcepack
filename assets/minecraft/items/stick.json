@@ -27,6 +27,13 @@
                     "type": "model",
                     "model": "item/scythe"
                 }
+            },
+            {
+                "when": "plague_cane",
+                "model": {
+                    "type": "model",
+                    "model": "item/cane"
+                }
             }
         ]
     }

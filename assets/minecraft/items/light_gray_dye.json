@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "item/medkit"
                 }
+            },
+            {
+                "when": "stim",
+                "model": {
+                    "type": "model",
+                    "model": "item/stim"
+                }
             }
         ]
     }

@@ -42,6 +42,34 @@
                     "model": "custom/goat8"
                 }
             },
+            {
+                "when": "plague0",
+                "model": {
+                    "type": "model",
+                    "model": "hunter_cosmetics/hood"
+                }
+            },
+            {
+                "when": "plague1",
+                "model": {
+                    "type": "model",
+                    "model": "hunter_cosmetics/plague"
+                }
+            },
+            {
+                "when": "plague2",
+                "model": {
+                    "type": "model",
+                    "model": "hunter_cosmetics/plaguewhite"
+                }
+            },
+            {
+                "when": "plague3",
+                "model": {
+                    "type": "model",
+                    "model": "hunter_cosmetics/skull"
+                }
+            },
 
 
 
