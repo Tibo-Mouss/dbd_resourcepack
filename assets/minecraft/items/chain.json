@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/chain"
+        },
+        "cases": [
+            {
+                "when": "chain1",
+                "model": {
+                    "type": "model",
+                    "model": "item/chain1"
+                }
+            },
+            {
+                "when": "chain2",
+                "model": {
+                    "type": "model",
+                    "model": "item/chain2"
+                }
+            },
+            {
+                "when": "chain3",
+                "model": {
+                    "type": "model",
+                    "model": "item/chain3"
+                }
+            }
+        ]
+    }
+}
